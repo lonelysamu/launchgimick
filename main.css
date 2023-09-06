@@ -40,6 +40,7 @@
 .standardimg {
     width: 100%;
     height: auto;
+
 }
 
 #html5-qrcode-button-camera-start, #html5-qrcode-button-camera-permission, #html5-qrcode-button-camera-stop{
@@ -59,7 +60,12 @@
 }
 
 
-
+#qr-reader{
+    background-color: #FF8C9E !important;
+    border: none !important;
+    border-radius: 1rem !important;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+}
 
 
 .buttonstyle1 {
