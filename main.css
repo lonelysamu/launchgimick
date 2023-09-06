@@ -65,6 +65,7 @@
     border: none !important;
     border-radius: 1rem !important;
     box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+    border-top-left-radius: 1rem;
 }
 
 
