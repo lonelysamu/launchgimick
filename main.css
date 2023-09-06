@@ -42,6 +42,23 @@
     height: auto;
 }
 
+#html5-qrcode-button-camera-stop{
+    background-image: linear-gradient(#FC4257, #FF8C9E, #FF8C9E);
+    border: 3px solid #FC4257;
+    border-radius: 3rem;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+#html5-qrcode-button-camera-stop:hover {
+    transition: 0.5s;
+    box-shadow: 0 5px rgba(0, 0, 0, 0.5);
+    transform: translate(0, -5px);
+}
+
+
 .buttonstyle1 {
     background-image: linear-gradient(#FC4257, #FF8C9E, #FF8C9E);
     border: 3px solid #FC4257;
